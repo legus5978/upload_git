@@ -6,7 +6,7 @@ class Setters{
     public function getName(){
         return 1;
     }
-    public function setName(string $s){
+    public function setName1(string $s){
         $this->name=$s;
     }
 }
